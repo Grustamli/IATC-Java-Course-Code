@@ -13,7 +13,7 @@ public class Exercise09 {
     private static int max(int[] arr) {
         int max = arr[0]; // Set first element of the array as maximum for now...
 
-        /* iterate over the array and check if the current element is higher than the max.
+        /* Iterate over the array and check if the current element is higher than the max.
            If it is, set max to current looked element */
         for (int i = 0; i < arr.length; i++) {
             int elem = arr[i];
