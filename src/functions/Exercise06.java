@@ -1,5 +1,5 @@
 /**
- * Write a program that receives 3 parameters and returns the maximum.
+ * Write a program that receives 3 parameters and prints (void) the maximum.
  */
 
 package functions;
